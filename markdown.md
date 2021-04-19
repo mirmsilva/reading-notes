@@ -1,4 +1,6 @@
-# I will take notes on my reading notes for markdown
+# Markdown Notes
+
+## From the reading:
 
 I learned how to make tables!
 
