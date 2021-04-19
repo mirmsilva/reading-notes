@@ -9,7 +9,7 @@ To stay in a growth mindset I will do the following:
 - put in the effort
 - learn from the people around me
 - accept any challenge
-~~give up when things get difficult
+- ~~give up when things get difficult
 
 
 
