@@ -1,4 +1,4 @@
-## learning-notes
+## Learning-notes
 *Hello. My name is Miriam. I live in Seattle with my two cats*
 
 ## Growth Mindset
