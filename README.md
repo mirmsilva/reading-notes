@@ -12,4 +12,5 @@ To stay in a growth mindset I will do the following:
 - ~~give up when things get difficult~~
 
 
-
+## Table of contents
+[markup notes](markup.md)
