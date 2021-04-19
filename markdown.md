@@ -1,4 +1,7 @@
 # I will take notes on my reading notes for markdown
+
+I learned how to make tables!
+
 First Header | Second Header
 ------------ | -------------
 Content from cell 1 | Content from cell 2
