@@ -11,4 +11,4 @@ Content in first column | Content from sencond column
 
 I also learned to hot to link other webpages
 
-Here is the link to learn more about [Harry Potter] (https://www.wizardingworld.com/collections/starting-harry-potter)
+The link to learn more about Harry Potter is [here](https://www.wizardingworld.com/collections/starting-harry-potter)
