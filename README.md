@@ -1,6 +1,5 @@
 ## learning-notes
-
-** Hello. My name is Miriam. I live in Seattle with my two cats.
+* Hello. My name is Miriam. I live in Seattle with my two cats
 
 ## Growth Mindset
 To me growth midset means not giving up and accepting challenges as learning opportunities.
