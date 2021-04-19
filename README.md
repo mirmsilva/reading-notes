@@ -1,13 +1,15 @@
-# learning-notes
+## learning-notes
 
-Hello.
+--Hello. My name is Miriam. I live in Seattle with my two cats.
 
-# Growth Mindset
-To me growth midset means
+## Growth Mindset
+To me growth midset means not giving up and accepting challenges as learning opportunities.
 
-I want to stay in a growth mindset by doing the following:
+To stay in a growth mindset I will do the following:
 
-- stay positive
+- put in the effort
+- learn from the people around me
+- accept any challenge
 
 
 
