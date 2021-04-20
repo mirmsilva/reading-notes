@@ -17,6 +17,6 @@
 - git push: to push your changes
 
 ## Vocabulary
-**Local Version Control ** a database on your hard disk that stores changes
-**Central Version Control**  A single server that stores changes and alllows for multiple people to access it and make changes
-**Distributed Version Control** Mirror repositories that can be accessed to replace lost information. allows for simultaneous work. 
+- **Local Version Control** a database on your hard disk that stores changes
+- **Central Version Control**  A single server that stores changes and alllows for multiple people to access it and make changes
+- **Distributed Version Control** Mirror repositories that can be accessed to replace lost information. allows for simultaneous work. 
