@@ -13,4 +13,7 @@ To stay in a growth mindset I will do the following:
 
 
 ## Table of contents
-[markup notes](markup.md)
+- [Day 1 Reading](reading_01.md)
+- [Day 2 Reading](reading_02.md)
+- [Day 3 Reading](reading_03.md)
+- [Day 4 Reading](reading_04.md)

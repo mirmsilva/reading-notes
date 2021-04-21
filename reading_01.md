@@ -22,3 +22,6 @@ To create a new page go to settings then automatic page generator. From there yo
 # how big this is
 ## & how big this is
 #### && how big this is
+
+
+[Back to Main](README.md)
