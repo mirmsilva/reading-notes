@@ -17,3 +17,4 @@ To stay in a growth mindset I will do the following:
 - [Day 2 Reading](reading_02.md)
 - [Day 3 Reading](reading_03.md)
 - [Day 4 Reading](reading_04.md)
+- [Day 5 Reading](reading_05.md)

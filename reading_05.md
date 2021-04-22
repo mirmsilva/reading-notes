@@ -18,3 +18,5 @@ _ Color can change the look and feel of your webiste
 - **Declaration** indicatates how the element should be styled. Different declarations can be seperated by a colon.
 - **Properties** indicate aspects you want to change
 - **Values** specify the settings you want to use
+
+[Back to Main](README.md)
