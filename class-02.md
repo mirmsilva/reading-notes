@@ -22,6 +22,8 @@ declarations are inside curly brackets and are made up of a property and a value
 
 CSS rules should be written in a seperate file & called on from the HTML page
 
+When using border attribute the default is [border: 3px solid black]
+
 ### Vocab
 - **Selectors** indicate what element you are referring to
 - **Declaration** indicates how the element you are referring to will be styled
@@ -52,10 +54,11 @@ Scripts often need to behave differently depending on user input. Therefore you 
 - **Comparison Operators** allow you to compare two operands
 - **Logical Operators** allow you to combine more than one set of comparison operators
 
-
+### Data Types
 - **Numeric Data Type** deals only with numbers
-- **String Data Type** deals with letters and other characters
-- **Boolean Data Type** true or false values
+- **String Data Type** deals with letters and other characters enclosed ''
+- **Boolean Data Type** logical: true or false values
+- **Undefined** used when the data type is not defined
 
 {} Denote the start & end of a code block
 
