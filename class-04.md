@@ -1,6 +1,6 @@
 # Day 4 Reading Notes
 
-## HTML 
+## HTML & CSS
 
 ### Links
 links allow you to move from one webpage to another
@@ -23,8 +23,12 @@ grids help create a flexible & profesional layout
 - **fixed positioning** a form of absolute positioning that positions the element in relation to the browser
 - **floating elements** allows to take an element out of its normal flow and position it to the far right or left of the containing box
 
-### Javascript
+## Javascript
+### Functions
+
 Functions & methods consist of a series of statements that have been grouped together
+
+Functions are reusable and help prevent bugs
 
 Objects are used to create models of the world using data
 
