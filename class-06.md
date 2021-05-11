@@ -30,7 +30,15 @@ You can select nodes by their id or class attributes, tag name, or css selector 
 
 from an element node you can access and update its content using properties like textContent or DOM manipulation techniques
 
+### Const
+a way to declare variables that can never be changed
 
+'const newVariable = 'unchanging';'
 
+constant literals:
+a new way to write strings
+wrap drting in backticks & wrap variables in ${}
+
+"`Here is my string, and my variable ${variable}`"
 
 [Back to Main](README.md)
