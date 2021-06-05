@@ -1,4 +1,4 @@
-# 201 Reading Notes
+# Code 201 - Foundations of Software Development
 - [Day 1 Reading](../201/class-01.md)
 - [Day 2 Reading](../201/class-02.md)
 - [Day 3 Reading](../201/class-03.md)

@@ -1,4 +1,4 @@
-# 102 Reading Notes
+# Code 102 - Intro to Software Development
 - [Day 1 Reading](../102/reading_02.md)
 - [Day 2 Reading](../102/reading_02.md)
 - [Day 3 Reading](../102/reading_03.md)

@@ -1,4 +1,4 @@
-# 301 Reading Notes
+# Code 301 - Intermediate Software Development
 - [Day 1 Reading](../301/class-01.md)
 - [Day 2 Reading](../301/class-02.md)
 - [Day 3 Reading](../301/class-03.md)
