@@ -17,12 +17,12 @@ Language Intergrated Query
 - The actual execution of the query is deferred until you iterate over the query variable in a foreach statement
 
 ### Things I Want To Know More About:
+
+
+### My Sources:
 - https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/
 - https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/introduction-to-linq-queries
 - https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/basic-linq-query-operations
 - https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/walkthrough-writing-queries-linq
-
-### My Sources:
-
 
 [Back to Main](README.md)
