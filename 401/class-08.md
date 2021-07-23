@@ -30,6 +30,7 @@
 
 
 ### My Sources:
--https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/collections
+- https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/collections
+- https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/enum
 
 [Back to Main](README.md)
