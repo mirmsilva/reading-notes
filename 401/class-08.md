@@ -5,7 +5,7 @@
 - If your collection contains elements of only one data tyoe, you can use one of the classes in the System.Collections.Generic namespace to enforce type safety
 - You can iterate through a List
 
-System.Collections.Generic,Classes
+### System.Collections.Generic,Classes
 
 **Dictionary<TKey,TValue>**	Represents a collection of key/value pairs that are organized based on the key.
 
@@ -17,8 +17,14 @@ System.Collections.Generic,Classes
   
 **Stack<T>**	Represents a last in, first out (LIFO) collection of objects.
   
-Custom Collections
-
+### Custom Collections
+- You can define a collection by implementing the IEnumerable<T> or IEnumerable interface
+- The IEnumerable interface requires that the GetEnumerator method be implemented
+  
+## Enumeration Types
+- A value type defined by a set of named constants of the underlying intergral numeric type
+- To define an enumeration type, use the enum keyword & specify the names of the enum members
+- By default the constant values of enum members are type of int & start with 0
   
 ### Things I Want To Know More About:
 
