@@ -14,6 +14,18 @@
 - [Day 13 Reading](../401/class-13.md)
 - [Day 14 Reading](../401/class-14.md)
 - [Day 15 Reading](../401/class-15.md)
+- [Day 16 Reading](../401/class-16.md)
+- [Day 17 Reading](../401/class-17.md)
+- [Day 18 Reading](../401/class-18.md)
+- [Day 19 Reading](../401/class-19.md)
+- [Day 26 Reading](../401/class-26.md)
+- [Day 27 Reading](../401/class-27.md)
+- [Day 28 Reading](../401/class-28.md)
+- [Day 29 Reading](../401/class-29.md)
+- [Day 31 Reading](../401/class-31.md)
+- [Day 32 Reading](../401/class-32.md)
+- [Day 33 Reading](../401/class-33.md)
+- [Day 34 Reading](../401/class-34.md)
 
 
 - [Back to All Reading Notes](../README.md)
