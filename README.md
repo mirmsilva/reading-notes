@@ -10,4 +10,4 @@
 - [click here for my 301 Notes](301/README.md)
 
 ## *Code 401 - Advanced Software Development*
-- [click here for my 301 Notes](401/README.md)
+- [click here for my 401 Notes](401/README.md)
